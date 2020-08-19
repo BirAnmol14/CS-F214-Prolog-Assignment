@@ -1,0 +1,27 @@
+Problem 1:-
+
+Graph 1:
+weight(p,q,1).
+weight(q,r,2).
+weight(r,p,3).
+weight(p,s,5).
+weight(s,r,3).
+weight(s,q,1).
+
+Graph 2:
+weight(a,b,1).
+weight(b,c,1).
+weight(c,d,1).
+weight(d,a,1).
+weight(c,a,1).
+weight(b,e,1).
+weight(e,c,1).
+weight(e,d,1).
+
+Graph 3:
+weight(x,y,2).
+weight(y,z,3).
+weight(z,w,4).
+weight(w,x,5).
+
+All these clauses are already present Problem_1.pl file. To add more clause please make changes to Problem_1.pl file.
